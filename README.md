@@ -1,4 +1,4 @@
-# MIBS_Integral_Cryptanalysis_Basd_on_Division_Property
+# Integral Cryptanalysis Basd on Division Property of MIBS
 Applying the MILP method to search bit-based integral distinguishers and degree estimation of the round function of MIBS block cipher, using division property.
 
 Two Python classes are given here for the MILP-based integral cryptanalysis of MIBS block cipher. One class is used to search
